@@ -4,7 +4,7 @@ import { AragonConfig } from './types'
 // - Local testnet node to connect to (testnetPort)
 // - ENS address to resolve names (aragenMnemonic)
 // In order to deploy the Aragon bases a specific gas limit is needed (aragenGasLimit).
-export const testnetPort = 8545
+export const testnetPort = 48545
 export const aragenGasLimit = 10e6
 export const aragenMnemonic =
   'explain tackle mirror kit van hammer degree position ginger unfair soup bonus'
